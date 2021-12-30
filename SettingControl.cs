@@ -540,7 +540,7 @@ public class SettingControl : MonoBehaviour
                 Changed_Z("-100");
                 Changed_H("10");
                 Changed_R("0.0");
-                Changed_V("238.0");
+                Changed_V("238.0");//
                 Changed_Roll(0.0f);
                 Changed_Pitch(0.0f);
                 path_Ori.positionCount = SPath_S.Length;
